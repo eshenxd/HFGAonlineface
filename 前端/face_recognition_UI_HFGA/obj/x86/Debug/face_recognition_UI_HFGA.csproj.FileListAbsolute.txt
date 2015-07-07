@@ -1,0 +1,15 @@
+E:\Work\VS2010 Workspace\face_recognition_UI_HFGA\face_recognition_UI_HFGA\bin\Debug\face_recognition_UI_HFGA.exe
+E:\Work\VS2010 Workspace\face_recognition_UI_HFGA\face_recognition_UI_HFGA\bin\Debug\face_recognition_UI_HFGA.pdb
+E:\Work\VS2010 Workspace\face_recognition_UI_HFGA\face_recognition_UI_HFGA\obj\x86\Debug\face_recognition_UI_HFGA.Form1.resources
+E:\Work\VS2010 Workspace\face_recognition_UI_HFGA\face_recognition_UI_HFGA\obj\x86\Debug\face_recognition_UI_HFGA.Properties.Resources.resources
+E:\Work\VS2010 Workspace\face_recognition_UI_HFGA\face_recognition_UI_HFGA\obj\x86\Debug\face_recognition_UI_HFGA.csproj.GenerateResource.Cache
+E:\Work\VS2010 Workspace\face_recognition_UI_HFGA\face_recognition_UI_HFGA\obj\x86\Debug\face_recognition_UI_HFGA.exe
+E:\Work\VS2010 Workspace\face_recognition_UI_HFGA\face_recognition_UI_HFGA\obj\x86\Debug\face_recognition_UI_HFGA.pdb
+E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\前端\face_recognition_UI_HFGA\face_recognition_UI_HFGA\obj\x86\Debug\face_recognition_UI_HFGA.exe
+E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\前端\face_recognition_UI_HFGA\face_recognition_UI_HFGA\obj\x86\Debug\face_recognition_UI_HFGA.pdb
+E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\前端\face_recognition_UI_HFGA\face_recognition_UI_HFGA\bin\Debug\face_recognition_UI_HFGA.exe
+E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\前端\face_recognition_UI_HFGA\face_recognition_UI_HFGA\bin\Debug\face_recognition_UI_HFGA.pdb
+E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\前端\face_recognition_UI_HFGA\face_recognition_UI_HFGA\obj\x86\Debug\face_recognition_UI_HFGA.Form1.resources
+E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\前端\face_recognition_UI_HFGA\face_recognition_UI_HFGA\obj\x86\Debug\face_recognition_UI_HFGA.Properties.Resources.resources
+E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\前端\face_recognition_UI_HFGA\face_recognition_UI_HFGA\obj\x86\Debug\face_recognition_UI_HFGA.csproj.GenerateResource.Cache
+E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\前端\face_recognition_UI_HFGA\face_recognition_UI_HFGA\obj\x86\Debug\face_recognition_UI_HFGA.csprojResolveAssemblyReference.cache

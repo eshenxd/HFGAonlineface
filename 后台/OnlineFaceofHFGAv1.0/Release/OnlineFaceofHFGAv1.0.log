@@ -1,0 +1,49 @@
+﻿生成启动时间为 2015/7/7 11:47:00。
+     1>项目“E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\后台\OnlineFaceofHFGA\OnlineFaceofHFGAv1.0\OnlineFaceofHFGAv1.0.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\OnlineFaceofHFGAv1.0.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\software\vs2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\face_compare.cpp ..\src\recognition_mode.cpp main.cpp
+         face_compare.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>e:\桌面\最近项目相关\合肥公安项目\hfga在线人脸检索系统v1\后台\onlinefaceofhfga\opencv\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\software\vs2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+         recognition_mode.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>e:\桌面\最近项目相关\合肥公安项目\hfga在线人脸检索系统v1\后台\onlinefaceofhfga\opencv\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\software\vs2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+         main.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>e:\桌面\最近项目相关\合肥公安项目\hfga在线人脸检索系统v1\后台\onlinefaceofhfga\opencv\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\software\vs2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+       Link:
+         D:\software\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\后台\OnlineFaceofHFGA\Release\OnlineFaceofHFGAv1.0.exe" /INCREMENTAL:NO /NOLOGO /NODEFAULTLIB:libcmt.lib /MANIFEST /ManifestFile:"Release\OnlineFaceofHFGAv1.0.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\后台\OnlineFaceofHFGA\Release\OnlineFaceofHFGAv1.0.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\后台\OnlineFaceofHFGA\Release\OnlineFaceofHFGAv1.0.lib" /MACHINE:X86 Release\detect_face.obj
+         Release\drawImage.obj
+         Release\faceAlign.obj
+         Release\facePoint.obj
+         Release\face_compare.obj
+         Release\getCardInfo.obj
+         Release\getFiles.obj
+         Release\get_cnn_feature.obj
+         Release\recognition_mode.obj
+         Release\register.obj
+         Release\register_mode.obj
+         Release\show_compare_result.obj
+         Release\version_info_show.obj
+         Release\video_camera.obj
+         Release\create_new_thread.obj
+         Release\main.obj
+            正在创建库 E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\后台\OnlineFaceofHFGA\Release\OnlineFaceofHFGAv1.0.lib 和对象 E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\后台\OnlineFaceofHFGA\Release\OnlineFaceofHFGAv1.0.exp
+         正在生成代码
+         已完成代码的生成
+         OnlineFaceofHFGAv1.0.vcxproj -> E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\后台\OnlineFaceofHFGA\Release\OnlineFaceofHFGAv1.0.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\后台\OnlineFaceofHFGA\Release\OnlineFaceofHFGAv1.0.exe;#1" /manifest Release\OnlineFaceofHFGAv1.0.exe.intermediate.manifest D:\software\vs2010\VC\Include\Manifest\dpiaware.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\OnlineFaceofHFGAv1.0.unsuccessfulbuild”。
+         正在对“Release\OnlineFaceofHFGAv1.0.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\桌面\最近项目相关\合肥公安项目\HFGA在线人脸检索系统v1\后台\OnlineFaceofHFGA\OnlineFaceofHFGAv1.0\OnlineFaceofHFGAv1.0.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.97
